@@ -1,0 +1,42 @@
+[
+  {
+    "id": "leave-policy",
+    "text": "Employees receive 24 days of paid leave per calendar year. Leave requests should be submitted through the employee portal before the leave begins.",
+    "category": "leave"
+  },
+  {
+    "id": "office-schedule",
+    "text": "Employees work from the office on Tuesday, Wednesday, and Thursday. Monday and Friday are optional work-from-home days.",
+    "category": "workplace"
+  },
+  {
+    "id": "gym-reimbursement",
+    "text": "Employees can claim up to Rs 3000 per month for gym or fitness membership reimbursement by submitting valid receipts.",
+    "category": "reimbursement"
+  },
+  {
+    "id": "internet-reimbursement",
+    "text": "Employees can claim up to Rs 2000 per month for home internet reimbursement by submitting the monthly internet bill.",
+    "category": "reimbursement"
+  },
+  {
+    "id": "notice-period",
+    "text": "Employees have a 90-day notice period when resigning from the company.",
+    "category": "career"
+  },
+  {
+    "id": "health-insurance",
+    "text": "The company provides health insurance coverage for the employee and eligible dependents. Coverage details are available in the benefits portal.",
+    "category": "benefits"
+  },
+  {
+    "id": "parental-leave",
+    "text": "Eligible employees may take 16 weeks of paid parental leave after the birth or adoption of a child.",
+    "category": "leave"
+  },
+  {
+    "id": "learning-budget",
+    "text": "Every employee receives an annual learning budget of Rs 25000 for approved courses, books, and conferences.",
+    "category": "benefits"
+  }
+]
